@@ -1,4 +1,6 @@
 # clean_flutter
+<img width="303" alt="Screen Shot 2023-04-28 at 8 31 11 PM" src="https://user-images.githubusercontent.com/81376236/235214201-5cf774db-39b0-42f1-b530-02177d4c8e09.png">
+<img width="303" alt="Screen Shot 2023-04-28 at 8 31 17 PM" src="https://user-images.githubusercontent.com/81376236/235214220-8d67701c-b252-486b-b81e-4e639b758838.png">
 
 A new Flutter project.
 
